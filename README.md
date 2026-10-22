@@ -1,8 +1,5 @@
 # EduGT - Fase 4
 
-
-# EduGT — Fase 4
-
 Proyecto de Bases de Datos II · Sección 02 · Universidad Rafael Landívar
 
 Catedrática: Ing. Diana Gutiérrez · Guatemala, 22 de octubre de 2026
